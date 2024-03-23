@@ -70,7 +70,7 @@ O **DivDados** é uma aplicação web inicialmente desenvolvida como **Trabalho 
 
 O **DivDados – Aplicativo para Controle Financeiro** surge em resposta a uma problemática evidente no cenário econômico brasileiro. De acordo com uma pesquisa realizada pelo Serasa (ABDALA, 2022), o nível de inadimplência no Brasil ultrapassou em fevereiro a marca de 65 milhões de pessoas pela primeira vez desde maio de 2020, evidenciando a necessidade de uma abordagem mais eficaz em relação à gestão financeira pessoal.
 
-Para embasar esse contexto, o projeto se baseia em dados e análises apresentadas no documento _PI_DaniloRodrigues_GabrielClaudino_MarianaMorosini: Embasamento Teórico_. Nele, são destacados os seguintes pontos:
+Para embasar esse contexto, o projeto se baseia em dados e análises apresentadas no documento _[TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini](https://github.com/DanCampos12/requirements-divdados/blob/main/TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini.pdf): Embasamento Teórico_. Nele, são destacados os seguintes pontos:
 
 -   **Diminuição da Inadimplência:** Em junho de 2023, o número de pessoas inadimplentes no Brasil registrou sua primeira queda do ano, segundo o Mapa da Inadimplência e Renegociação de Dívidas da Serasa (ANDRADE, 2023). No entanto, a preocupação com a saúde financeira continua relevante.
     
@@ -79,4 +79,4 @@ Para embasar esse contexto, o projeto se baseia em dados e análises apresentada
 -   **Relação do Brasileiro com o Dinheiro:** Pesquisa realizada pelo Google, em parceria com a Liga Pesquisa e a Provokers (2021, apud CARVALHO, 2022), revela que a realidade da sociedade atual interfere na perspectiva de mobilidade social e na gestão financeira a curto e longo prazo.
     
 
-O **DivDados** busca contribuir para uma mudança nesse cenário, oferecendo uma ferramenta que não apenas auxilia na organização financeira pessoal, mas também promove uma maior conscientização sobre o tema. As referências completas e análises detalhadas estão disponíveis no arquivo _PI_DaniloRodrigues_GabrielClaudino_MarianaMorosini: Embasamento Teórico_ 🗃
+O **DivDados** busca contribuir para uma mudança nesse cenário, oferecendo uma ferramenta que não apenas auxilia na organização financeira pessoal, mas também promove uma maior conscientização sobre o tema. As referências completas e análises detalhadas estão disponíveis no arquivo_[TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini](https://github.com/DanCampos12/requirements-divdados/blob/main/TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini.pdf): Embasamento Teórico_ 🗃
