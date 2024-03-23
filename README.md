@@ -6,10 +6,10 @@ O **DivDados** é uma aplicação web inicialmente desenvolvida como **Trabalho 
 <br/><br/><br/>
 <h2 align="center"> Índice 🗃 </h2>
 
--   [Funcionalidades Principais]()
--   [Tecnologias Utilizadas]()
--   [Membros]()
--   [Sobre o Projeto]()
+-   [Funcionalidades Principais](https://github.com/DanCampos12/requirements-divdados/edit/main/README.md#-funcionalidades-principais--)
+-   [Tecnologias Utilizadas](https://github.com/DanCampos12/requirements-divdados?tab=readme-ov-file#-tecnologias-utilizadas-%EF%B8%8F-)
+-   [Membros](https://github.com/DanCampos12/requirements-divdados?tab=readme-ov-file#-membros-)
+-   [Sobre o Projeto](https://github.com/DanCampos12/requirements-divdados?tab=readme-ov-file#-sobre-o-projeto-%E2%84%B9%EF%B8%8F--)
 <br/><br/><br/>
 <h2 align="center"> Funcionalidades Principais: 🎯 </h2>
 
