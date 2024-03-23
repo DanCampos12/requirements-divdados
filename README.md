@@ -1,7 +1,8 @@
 ![DivDados Banner](https://github.com/DanCampos12/requirements-divdados/assets/78832392/cf790550-201e-4db4-a0be-bd8bb5b8004a)
 <h1 align="center"> DivDados – Aplicativo para Controle Financeiro 💰📊 </h1>
 
-O **DivDados** é uma aplicação web inicialmente desenvolvida como **Trabalho de Graduação**, destinada ao gerenciamento das finanças pessoais dos usuários. Com uma abordagem abrangente, visa oferecer uma solução que facilite a gestão eficaz de receitas e despesas, promovendo uma visão clara das finanças e facilitando a tomada de decisões financeiras. 🚀
+O **DivDados** é uma aplicação web inicialmente desenvolvida como **Trabalho de Graduação**, destinada ao gerenciamento das finanças pessoais dos usuários. Com uma abordagem abrangente, visa oferecer uma solução que facilite a gestão eficaz de receitas e despesas, promovendo uma visão clara das finanças e facilitando a tomada de decisões financeiras. 🚀 
+<h3 align="center"> https://divdados.com.br/ </h2>
 <br/><br/><br/>
 <h2 align="center"> Índice 🗃 </h2>
 
@@ -79,4 +80,4 @@ Para embasar esse contexto, o projeto se baseia em dados e análises apresentada
 -   **Relação do Brasileiro com o Dinheiro:** Pesquisa realizada pelo Google, em parceria com a Liga Pesquisa e a Provokers (2021, apud CARVALHO, 2022), revela que a realidade da sociedade atual interfere na perspectiva de mobilidade social e na gestão financeira a curto e longo prazo.
     
 
-O **DivDados** busca contribuir para uma mudança nesse cenário, oferecendo uma ferramenta que não apenas auxilia na organização financeira pessoal, mas também promove uma maior conscientização sobre o tema. As referências completas e análises detalhadas estão disponíveis no arquivo_[TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini](https://github.com/DanCampos12/requirements-divdados/blob/main/TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini.pdf): Embasamento Teórico_ 🗃
+O **DivDados** busca contribuir para uma mudança nesse cenário, oferecendo uma ferramenta que não apenas auxilia na organização financeira pessoal, mas também promove uma maior conscientização sobre o tema. As referências completas e análises detalhadas estão disponíveis no arquivo _[TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini](https://github.com/DanCampos12/requirements-divdados/blob/main/TG_DIVDADOS_DaniloRodrigues_GabrielClaudino_MarianaMorosini.pdf): Embasamento Teórico_ 🗃
