@@ -1,3 +1,4 @@
+![DivDados Banner](https://github.com/DanCampos12/requirements-divdados/assets/78832392/cf790550-201e-4db4-a0be-bd8bb5b8004a)
 <h1 align="center"> DivDados – Aplicativo para Controle Financeiro 💰📊 </h1>
 
 O **DivDados** é uma aplicação web inicialmente desenvolvida como **Trabalho de Graduação**, destinada ao gerenciamento das finanças pessoais dos usuários. Com uma abordagem abrangente, visa oferecer uma solução que facilite a gestão eficaz de receitas e despesas, promovendo uma visão clara das finanças e facilitando a tomada de decisões financeiras. 🚀
